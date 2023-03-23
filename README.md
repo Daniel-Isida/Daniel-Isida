@@ -15,5 +15,8 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="50" width="50"/>
-          
+</div>
+  <hr>
+<div>
+  <a href="https://www.linkedin.com/in/daniel-augusto-isida-32915a259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
